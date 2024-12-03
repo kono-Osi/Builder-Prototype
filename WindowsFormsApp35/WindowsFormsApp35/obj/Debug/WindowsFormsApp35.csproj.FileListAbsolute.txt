@@ -1,0 +1,20 @@
+C:\Users\DELL\source\repos\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe.config
+C:\Users\DELL\source\repos\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe
+C:\Users\DELL\source\repos\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.pdb
+C:\Users\DELL\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form1.resources
+C:\Users\DELL\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Properties.Resources.resources
+C:\Users\DELL\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe
+C:\Users\DELL\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.pdb
+C:\Users\Sidor\OneDrive\Рабочий стол\builder\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe.config
+C:\Users\Sidor\OneDrive\Рабочий стол\builder\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe
+C:\Users\Sidor\OneDrive\Рабочий стол\builder\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.pdb
+C:\Users\Sidor\OneDrive\Рабочий стол\builder\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.AssemblyReference.cache
+C:\Users\Sidor\OneDrive\Рабочий стол\builder\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form1.resources
+C:\Users\Sidor\OneDrive\Рабочий стол\builder\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Properties.Resources.resources
+C:\Users\Sidor\OneDrive\Рабочий стол\builder\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.GenerateResource.cache
+C:\Users\Sidor\OneDrive\Рабочий стол\builder\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\Sidor\OneDrive\Рабочий стол\builder\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe
+C:\Users\Sidor\OneDrive\Рабочий стол\builder\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.pdb
